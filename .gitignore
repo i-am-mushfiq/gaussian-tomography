@@ -1,0 +1,22 @@
+# --- r2_gaussian internals (managed by inner repo) ---
+r2_gaussian/data/
+r2_gaussian/output/
+r2_gaussian/viewers/
+r2_gaussian/data_generator/synthetic_dataset/Brain2_PNG/
+r2_gaussian/data_generator/synthetic_dataset/Brain2_PNG.npy
+r2_gaussian/data_generator/synthetic_dataset/cone_ntrain_*/
+r2_gaussian/spec.txt
+r2_gaussian/__pycache__/
+r2_gaussian/*.pyd
+
+# --- gaussian-splatting internals (upstream baseline, unmodified) ---
+gaussian-splatting/Data/
+gaussian-splatting/output/
+gaussian-splatting/SIBR_viewers/
+gaussian-splatting/__pycache__/
+gaussian-splatting/*.pyd
+
+# --- General ---
+__pycache__/
+*.pyc
+*.pyd
