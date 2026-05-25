@@ -1,5 +1,5 @@
-# Internal Handoff Document
-## R²-Gaussian for CT Reconstruction — Thesis Defence Project
+# gaussian-tomography
+## Internal Handoff — R²-Gaussian for CT Brain Reconstruction
 
 **Date**: May 2026  
 **Author of handoff**: Derived from full repository audit  
