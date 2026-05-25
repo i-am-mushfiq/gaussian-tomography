@@ -1,4 +1,4 @@
-# Thesis (Defence) - Gaussian Splatting for Sparse-View CT Reconstruction
+# gaussian-tomography
 ### Adapting Differentiable Radiative Rendering to Volumetric Medical Imaging
 
 > **Thesis Defence Project** — Applying R²-Gaussian (NeurIPS 2024) to brain CT reconstruction with a custom visualization and evaluation suite.
